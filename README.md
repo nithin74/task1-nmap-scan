@@ -18,6 +18,7 @@ Scan the local network using Nmap to identify live hosts, open ports, and expose
 
 ## 💻 Command Used:
 nmap -sS 192.168.31.0/24
+
 Explanation
   -sS: TCP SYN scan (stealthy and fast)
 
