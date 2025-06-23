@@ -24,3 +24,16 @@ Explanation
 
    192.168.31.0/24: Scans all 256 IPs in the local subnet
 
+
+---
+
+## 📋 Summary of Results:
+- **Live Hosts Detected**: 6
+- **Devices Identified**: JioFiber router, POCO phone, Xiaomi device, Desktop, Kali Linux machines
+- **Common Open Ports**:
+  - 80 (HTTP)
+  - 443 (HTTPS)
+  - 22 (SSH)
+  - 53 (DNS)
+  - 8080 (HTTP-proxy)
+
