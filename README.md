@@ -34,6 +34,7 @@ Explanation
 - 192.168.31.128
 - 192.168.31.172
 - 192.168.31.219
+- 192.168.31.220
 - **Devices Identified**: JioFiber router, POCO phone, Xiaomi device, Desktop, Kali Linux machines
 - **Common Open Ports**:
   - 80 (HTTP)
