@@ -17,6 +17,6 @@ Scan the local network using Nmap to identify live hosts, open ports, and expose
 ---
 
 ## 💻 Command Used:
-```bash
 nmap -sS 192.168.31.0/24
+
 
